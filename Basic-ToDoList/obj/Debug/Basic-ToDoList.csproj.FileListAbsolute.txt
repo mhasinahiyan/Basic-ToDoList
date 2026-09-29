@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Basic-ToDoList\Basic-ToDoList\obj\Debug\Basic-ToDoList.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Basic-ToDoList\Basic-ToDoList\obj\Debug\Basic_ToDoList.Properties.Resources.resources
+C:\Users\HP\source\repos\Basic-ToDoList\Basic-ToDoList\obj\Debug\Basic-ToDoList.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Basic-ToDoList\Basic-ToDoList\obj\Debug\Basic-ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Basic-ToDoList\Basic-ToDoList\bin\Debug\Basic-ToDoList.exe.config
+C:\Users\HP\source\repos\Basic-ToDoList\Basic-ToDoList\bin\Debug\Basic-ToDoList.exe
+C:\Users\HP\source\repos\Basic-ToDoList\Basic-ToDoList\bin\Debug\Basic-ToDoList.pdb
+C:\Users\HP\source\repos\Basic-ToDoList\Basic-ToDoList\obj\Debug\Basic-ToDoList.exe
+C:\Users\HP\source\repos\Basic-ToDoList\Basic-ToDoList\obj\Debug\Basic-ToDoList.pdb
+C:\Users\HP\source\repos\Basic-ToDoList\Basic-ToDoList\obj\Debug\MyTodoApp.ToDoList.resources
